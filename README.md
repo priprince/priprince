@@ -108,7 +108,7 @@ Capabilities:
 
 Worked on multiple cryptocurrency exchange platforms including:
 
-• Gio Exchange (10K+ downloads)  
+• Gio Exchange  
 • Coinqueens  
 • Futurex  
 • Returex  
