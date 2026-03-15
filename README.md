@@ -171,18 +171,6 @@ https://www.udemy.com/certificate/UC-4b717eb4-36ae-4d9e-8fc6-f5830d84bce7/
 
 ---
 
-# 📈 Contribution Graph
-
-[![Pravin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priprince\&theme=tokyo-night)](https://github.com/priprince)
-
----
-
-# 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=priprince\&theme=algolia\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 # 🌐 Portfolio
 
 https://priprince.github.io/portfolio/
@@ -193,7 +181,7 @@ https://priprince.github.io/portfolio/
 
 Download my latest resume:
 
-https://priprince.github.io/portfolio/assets/assets/resume/Pravin_Senior_Flutter_Developer.pdf
+[Download Resume](https://priprince.github.io/portfolio/assets/assets/resume/Pravin_Senior_Flutter_Developer.pdf)
 
 ---
 
