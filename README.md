@@ -64,10 +64,55 @@ Along with mobile development, I work on **backend architecture, real-time syste
 
 # 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,ios,web,bLoc,riverpod,getx,node,express,graphql,websockets,ts,postgres,mysql,hive,isar,firebase,aws,cognito,s3,
-cloudfront,sns,gitbub,render,vercel,jwt,oauth,mfa,biometrics,gpt,gemini,yolov8,gemma"/>
-</p>
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
+### State Management
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-00C7B7?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge)
+![Isar](https://img.shields.io/badge/Isar-00A86B?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Cloud & DevOps
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Cognito](https://img.shields.io/badge/AWS%20Cognito-DD344C?style=for-the-badge)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/AWS%20CloudFront-FF9900?style=for-the-badge)
+![SNS](https://img.shields.io/badge/AWS%20SNS-FF4F8B?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Security
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=for-the-badge)
+![MFA](https://img.shields.io/badge/MFA-FF6B6B?style=for-the-badge)
+![Biometrics](https://img.shields.io/badge/Biometrics-4CAF50?style=for-the-badge)
+![Secure Storage](https://img.shields.io/badge/Secure%20Storage-008080?style=for-the-badge)
+
+### AI Integrations
+![GPT4 Vision](https://img.shields.io/badge/GPT--4%20Vision-412991?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)
+![Gemma AI](https://img.shields.io/badge/Gemma%20AI-5C2D91?style=for-the-badge)
 
 ---
 
