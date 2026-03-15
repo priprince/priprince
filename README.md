@@ -65,8 +65,8 @@ Along with mobile development, I work on **backend architecture, real-time syste
 # 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,iOS,web,BLoC,Riverpod,GetX,NodeJS,ExpressJS,GraphQL,WebSockets,TypeScript,PostgreSQL,MySQL,Hive,Isar,Firebase,AWS,Cognito,S3,
-CloudFront,SNS,CI/CD,GitHub,Render,Vercel,JWT,OAuth,MFA,Biometrics,Secure,GPT4,Gemini,YOLOv8,Gemma"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,ios,web,bLoc,riverpod,getx,node,express,graphql,websockets,ts,postgres,mysql,hive,isar,firebase,aws,cognito,s3,
+cloudfront,sns,gitbub,render,vercel,jwt,oauth,mfa,biometrics,gpt,gemini,yolov8,gemma"/>
 </p>
 
 ---
