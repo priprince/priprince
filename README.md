@@ -64,7 +64,7 @@ Along with mobile development, I work on **backend architecture, real-time syste
 
 # 🛠 Tech Stack
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,js,ts,nodejs,express,graphql,postgres,mysql,firebase,aws,docker,githubactions,figma"/>
 </p>
 
