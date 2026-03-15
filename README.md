@@ -36,6 +36,12 @@ AI & Computer Vision Integrations
 
 # 🛠 Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,java,js,ts,nodejs,express,graphql,postgres,mysql,firebase,aws,docker,githubactions,figma"/>
+
+</p>
+
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
