@@ -43,14 +43,10 @@ AI & Computer Vision Integrations
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
----
-
 ### State Management
 ![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge)
 ![Riverpod](https://img.shields.io/badge/Riverpod-00C7B7?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-
----
 
 ### Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
