@@ -197,6 +197,9 @@ https://play.google.com/store/apps/details?id=com.gioexchange.app
 
 # 🎓 Certifications
 
+🎓 Understand & Complying with HIPAA – Udemy
+https://www.udemy.com/certificate/UC-38e4eabd-3c17-46f4-bc83-b116964ac3cc/
+
 🎓 AI Engineering Bootcamp – Udemy
 https://www.udemy.com/certificate/UC-4f139446-5ae6-47f0-92b3-a9c9e1b31884/
 
