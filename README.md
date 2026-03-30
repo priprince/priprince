@@ -107,6 +107,7 @@ Along with mobile development, I work on **backend architecture, real-time syste
 ![MFA](https://img.shields.io/badge/MFA-FF6B6B?style=for-the-badge)
 ![Biometrics](https://img.shields.io/badge/Biometrics-4CAF50?style=for-the-badge)
 ![Secure Storage](https://img.shields.io/badge/Secure%20Storage-008080?style=for-the-badge)
+![HIPAA](https://img.shields.io/badge/HIPAA-008080?style=for-the-badge)
 
 ### AI Integrations
 ![GPT4 Vision](https://img.shields.io/badge/GPT--4%20Vision-412991?style=for-the-badge)
